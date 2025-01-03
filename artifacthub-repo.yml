@@ -10,7 +10,7 @@
 # NOT apply to ownership claim operations, which are processed immediately.
 #
 #repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
-repositoryID: < The ID of the Artifact Hub repository>
+repositoryID: ca9572ea-91a7-4f30-ac96-209002705d31
 owners: # (optional, used to claim repository ownership)
   - name: Niteesh Chalamcherla
     email: chniteesh71@gmail.com
